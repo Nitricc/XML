@@ -1,6 +1,7 @@
 <xml>
-        <p1>"1":"Patience"</p1>
-        <p2>"2":"Kindness"</p2>
-        <p3>"3":"JS Knowledge"</p3>
-        <p4>"4":"Writing autotests"</p4>
-	<p5>"5":"SomethingElse"</p5>
+        <skillone>"Patience"</skillone>
+        <skilltwo>"Kindness"</skilltwo>
+        <skillthird>"JS Knowledge"</skillthird>
+        <skill4>"Writing autotests"</skill4>
+	<skillFive>"SomethingElse"</skillFive>
+</xml>
