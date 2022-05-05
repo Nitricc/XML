@@ -1,6 +1,7 @@
 <xml>
-        <p1>"Любимый фильм":"Афонин Валерий Юрьевич"</p1>
-        <p2>"Любимый сериал":"27"</p2>
-        <p3>"Любимая еда""1"</p3>
-        <p4>"Любимое время года":"2000$"</p4>
-	<p5>"Страна которую хотел бы посетит":"Norway"
+        <favoritefilm>"Avengers Infinite War"</favoritefilm>
+        <favoriteseries>"The Big Bang Theory"</favoriteseries>
+        <food>"TGI"</food>
+        <favoriteseason>"Eternal summer"</favoriteseason>
+	<country>"Norway"</country>
+</xml>
