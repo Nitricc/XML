@@ -1,5 +1,6 @@
 <xml>
-        <p1>"ФИО":"Афонин Валерий Юрьевич"</p1>
-        <p2>"AGE":"27"</p2>
-	<p3>"Number of Pets""1"</p3>
-	<p4>"Salary":"2000$"</p4>
+        <Fullname>"Афонин Валерий Юрьевич"</Fullname>
+        <Age>"27"</Age>
+	<Pets>"1"</Pets>
+	<Salary>"2000$"</Salary>
+</xml>
